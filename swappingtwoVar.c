@@ -6,3 +6,4 @@ void main(){
     printf("b is: %d\n", b=a);
     printf("a is: %d", a=c);
 }
+
